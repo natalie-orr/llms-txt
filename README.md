@@ -1,6 +1,6 @@
 # Strategy + Impact - Leadership Communications
 
-> Leadership communications consultancy founded by Natalie Orringe. Specializing in turning strategy into measurable impact for organizations navigating change, managing reputational risk, and unlocking growth in highly regulated sectors.
+> Leadership communications consultancy founded by Natalie Orringe. Specialising in turning strategy into measurable impact for organizations navigating change, managing reputational risk, and unlocking growth in highly regulated sectors.
 
 ## About
 Strategy + Impact helps leadership teams and boards translate vision into delivery, culture into reputation, and strategy into sustainable growth. With over 20 years of experience across public, private, and third sectors, including roles as agency founder, Chief Marketing Officer (FTSE 350), Assistant Chief Executive (£1.1bn London Borough), and board director, we bring proven expertise in navigating complex organizational challenges.
